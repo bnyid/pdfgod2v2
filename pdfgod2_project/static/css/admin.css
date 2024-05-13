@@ -1,0 +1,26 @@
+/* admin.css 파일 */
+th.column-category {
+    width: 130px;
+}
+
+th.column-section {
+    width: 100px;  /* 원하는 너비로 조정 */
+}
+
+th.column-group {
+    width: 100px;  /* 원하는 너비로 조정 */
+}
+
+th.column-folder {
+    width: 100px;  /* 원하는 너비로 조정 */
+}
+
+/* Group 관리자 페이지의 열 너비 조정 */
+th.column-get_category {
+    width: 100px;  /* 원하는 너비로 조정 */
+}
+
+th.column-get_section {
+    width: 100px;  /* 원하는 너비로 조정 */
+}
+
